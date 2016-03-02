@@ -1,0 +1,14 @@
+layout_spectrum: 0.9152371
+typography_spectrum: 0.08525842
+color:
+  lightness: 0.5357209
+  brandStrength: 0.2952479
+  saturation: 0.07682603
+  rhythmicContrast: 0.6138921
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: JetRing
